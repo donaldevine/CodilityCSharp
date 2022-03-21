@@ -1,0 +1,7 @@
+C:\Repos\CodilityCSharp\CodilityCSharp\bin\Debug\CodilityCSharp.exe.config
+C:\Repos\CodilityCSharp\CodilityCSharp\bin\Debug\CodilityCSharp.exe
+C:\Repos\CodilityCSharp\CodilityCSharp\bin\Debug\CodilityCSharp.pdb
+C:\Repos\CodilityCSharp\CodilityCSharp\obj\Debug\CodilityCSharp.csproj.AssemblyReference.cache
+C:\Repos\CodilityCSharp\CodilityCSharp\obj\Debug\CodilityCSharp.csproj.CoreCompileInputs.cache
+C:\Repos\CodilityCSharp\CodilityCSharp\obj\Debug\CodilityCSharp.exe
+C:\Repos\CodilityCSharp\CodilityCSharp\obj\Debug\CodilityCSharp.pdb
